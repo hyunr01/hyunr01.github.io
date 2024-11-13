@@ -1,10 +1,9 @@
-# Simplest GitHub Page
+# Speculative Decoding Survey (add paper title)
 
-Test of simplest GitHub page, leveraging Jekyll without Jekyll.
+An overview of speculative decoding and its various inference methods categorized into two categories.
 
-View at [https://christophera.github.io/simplest-github-page/](https://christophera.github.io/simplest-github-page/)
+Paper [https://christophera.github.io/simplest-github-page/](https://christophera.github.io/simplest-github-page/)
 
-Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.com/ChristopherA/simplest-github-page/)
 
 ## Goals
 
