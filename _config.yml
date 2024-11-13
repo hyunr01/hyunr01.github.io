@@ -1,10 +1,9 @@
-title: "Simplest GitHub Page"
-project: "Simplest GitHub Page"
-description: "Test of simplest GitHub page, leveraging Jekyll without Jekyll"
-author: Christopher Allen
-email: ChristopherA@LifeWithAlacrity.com
-twitter_username: ChristopherA
-github_username:  ChristopherA
+title: "Speculative Decoding Survey"
+project: "Speculative Decoding Survey"
+description: "Test Description"
+author: Hyun Ryu
+email: hyunr2001@gmail.com
+github_username:  hyunr01
 show_downloads: false
 encoding: UTF-8
 kramdown:
