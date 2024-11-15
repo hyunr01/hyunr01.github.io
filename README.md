@@ -19,8 +19,11 @@ Survey Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
 
 ### 2022
 * **LaMDA: Language Models for Dialog Applications** by _Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, et al._ [Jan] ([pdf](https://arxiv.org/pdf/2201.08239))
+* **Fast Inference from Transformers via Speculative Decoding** by _Yaniv Leviathan, Matan Kalman, Yossi Matias_ [Nov] ([pdf](https://arxiv.org/pdf/2211.17192))
 
 ### 2023
+* **Challenges and Applications of Large Language Models** by _Jean Kaddour, Joshua Harris, Maximilian Mozes, Herbie Bradley, et al._ [Jul] ([pdf](https://arxiv.org/pdf/2307.10169))
+
 
 ### 2024
 
