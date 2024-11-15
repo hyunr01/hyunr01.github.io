@@ -1,8 +1,8 @@
 # Speculative Decoding Survey (add paper title)
 
-An overview of speculative decoding and its various inference methods categorized into two groups: model-centric and draft-centric.
+An overview of speculative decoding and its various inference methods categorized into two implementation groups: model-centric implementations and draft-centric implementations.
 
-Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
+Survey Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
 
 
 ## Papers
@@ -18,6 +18,7 @@ Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
 * **Language Models are Few-Shot Learners** by _Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, et al._ [May] ([pdf](https://arxiv.org/pdf/2005.14165))
 
 ### 2022
+* **LaMDA: Language Models for Dialog Applications** by _Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, et al._ [Jan] ([pdf](https://arxiv.org/pdf/2201.08239))
 
 ### 2023
 
