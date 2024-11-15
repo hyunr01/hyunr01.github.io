@@ -7,7 +7,18 @@ Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
 
 ## Papers
 
-* Without using Jekyll, Ruby or Gem, leverage the various files that allow you to use markdown directly within github pages.
-* Pages should largely look the same when rendered from the GitHub repo page and from the git
+### 2022
+
 * paper ([pdf](https://github.com/pages-themes/primer))
-* 
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
+* paper ([pdf](https://github.com/pages-themes/primer))
