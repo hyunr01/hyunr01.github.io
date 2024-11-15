@@ -8,7 +8,7 @@ Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
 ## Papers
 
 ### 2018
-* Blockwise Parallel Decoding for Deep Autoregressive Models ([pdf](https://github.com/pages-themes/primer](https://arxiv.org/pdf/1811.03115)))
+* **Blockwise Parallel Decoding for Deep Autoregressive Models** by _Mitchell Stern, Noam Shazeer, Jakob Uszkoreit_ ([pdf](https://github.com/pages-themes/primer](https://arxiv.org/pdf/1811.03115)))
 
 ### 2019
 
