@@ -8,12 +8,13 @@ Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
 ## Papers
 
 ### 2018
-* **Blockwise Parallel Decoding for Deep Autoregressive Models** by _Mitchell Stern, Noam Shazeer, Jakob Uszkoreit_ ([pdf]((https://arxiv.org/pdf/1811.03115)))
+* **Blockwise Parallel Decoding for Deep Autoregressive Models** by _Mitchell Stern, Noam Shazeer, Jakob Uszkoreit_ [Nov] ([pdf](https://arxiv.org/pdf/1811.03115))
 
 ### 2019
-* Fast Transformer Decoding: One Write-Head is All You Need by Noam Shazeer ([pdf](https://arxiv.org/pdf/1911.02150))
+* **Fast Transformer Decoding: One Write-Head is All You Need** by _Noam Shazeer_ ([pdf](https://arxiv.org/pdf/1911.02150))
 
 ### 2020
+* 
 
 ### 2022
 
