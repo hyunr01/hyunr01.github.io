@@ -5,20 +5,12 @@ An overview of speculative decoding and its various inference methods categorize
 Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
 
 
-## Goals
+## Papers
 
 * Without using Jekyll, Ruby or Gem, leverage the various files that allow you to use markdown directly within github pages.
 * Pages should largely look the same when rendered from the GitHub repo page and from the git
 * Leverage the default [Jekyll Primer](https://github.com/pages-themes/primer) theme's CSS without the using the full theme.
 * Support internal anchor link tags
-
-## Using This
-* [ ]  Copy these files in this repo to your own github
-* [ ]  In your repo, turn on github pages for 'master'
-* [ ]  Do not select a theme.
-* [ ]  Edit the `_config.yml` with your own info
-* [ ]  Edit the `/_layouts/default.html` file to change default html template.
-* [ ]  Add to `/_layouts/default.html` template any inline styles you wish to override.
 
 ## Notes
 * This technique will force Github to default to the CSS used by the [Primer Theme](https://github.com/pages-themes/primer), which is is the default Github theme if you do not select a theme, however, note that this theme is not among GitHub's standard theme choices, so you can't return to it if you pick a different theme.
