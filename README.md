@@ -1,8 +1,8 @@
 # Speculative Decoding Survey (add paper title)
 
-An overview of speculative decoding and its various inference methods categorized into two categories.
+An overview of speculative decoding and its various inference methods categorized into two groups: model-centric and draft-centric.
 
-Paper [https://christophera.github.io/simplest-github-page/](https://christophera.github.io/simplest-github-page/)
+Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
 
 
 ## Goals
