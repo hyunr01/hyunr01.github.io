@@ -1,4 +1,4 @@
-# Speculative Decoding Survey (add paper title)
+# A Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding
 
 An overview of speculative decoding and its various inference methods categorized into two implementation groups: model-centric implementations and draft-centric implementations.
 
