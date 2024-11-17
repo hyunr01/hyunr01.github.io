@@ -1,8 +1,8 @@
-title: "Speculative Decoding Survey"
-project: "Speculative Decoding Survey"
-description: "Test Description"
+title: "A Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding"
+project: "A Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding"
+description: "An overview of speculative decoding and its various inference methods categorized into two implementation groups: model-centric implementations and draft-centric implementations."
 author: Hyun Ryu
-email: hyunr2001@gmail.com
+email: hyunr01@kaist.ac.kr
 github_username:  hyunr01
 show_downloads: false
 encoding: UTF-8
