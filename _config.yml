@@ -1,5 +1,5 @@
-title: "A Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding"
-project: "A Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding"
+title: "Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding"
+project: "Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding"
 description: "An overview of speculative decoding and its various inference methods categorized into two implementation groups: model-centric implementations and draft-centric implementations."
 author: Hyun Ryu
 email: hyunr01@kaist.ac.kr
