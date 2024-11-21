@@ -2,7 +2,7 @@
 
 An overview of speculative decoding and its various inference methods categorized into two implementation groups: model-centric implementations and draft-centric implementations.
 
-Survey Paper: [arXiv](https://christophera.github.io/simplest-github-page/)
+Survey Paper: [arXiv](https://arxiv.org/abs/2411.13157)
 
 
 ## Papers
